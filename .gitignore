@@ -1,0 +1,14 @@
+*.pyc
+
+*.aux
+
+__pycache__
+
+*.gz
+
+*.log
+
+*.zip
+
+*sol.pdf
+
